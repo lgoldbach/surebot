@@ -1,0 +1,9 @@
+[[source]]
+
+[packages]
+numpy = ">=1.7.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
